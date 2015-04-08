@@ -1,0 +1,94 @@
+fileFormatVersion: 2
+guid: e3d8216db2fa55b4c8511a72b4f1341f
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Fighter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 68
+        height: 62
+      alignment: 9
+      pivot: {x: .5, y: .242720082}
+    - name: Fighter_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 211
+        width: 41
+        height: 44
+      alignment: 9
+      pivot: {x: .5, y: .449999988}
+    - name: Fighter_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 175
+        width: 33
+        height: 28
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+    - name: Fighter_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 153
+        width: 60
+        height: 101
+      alignment: 9
+      pivot: {x: .5, y: .583123207}
+    - name: Fighter_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: .5, y: .579999983}
+  spritePackingTag: 
+  userData: 
